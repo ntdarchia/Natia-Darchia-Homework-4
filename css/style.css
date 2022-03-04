@@ -1,0 +1,174 @@
+.displeyInlineBlock {
+	display: inline-block;
+}
+.verticalAlign {
+	vertical-align: middle;
+}
+/*Header Navigation*/
+.activePage {
+	font-size: 22px;
+	color: #ee4036;
+}
+.logoImage {
+	width: 100;
+	height: 31;
+	margin: 30px 50px 77.9px 30px;
+}
+.navigationTextStyle {
+	font-family: 'BPG Nino Mtavruli' sans-serif;
+	font-weight: 500;
+	font-size: 22px;
+	line-height: 26.4px;
+	text-align: left;
+	color: #3d58a6;
+}
+.navDivMargin {
+	margin-top: 37.8px;
+	margin-bottom: 153.7;
+}
+/*Footer Section*/
+.fbImg {
+	width: 14px;
+	height: 30px;
+	margin: 0 65.8px 26.5px 109.5px;
+}
+.youtubeImg {
+	width: 24.8 px;
+	height: 30px;
+	margin-bottom: 26.5px;
+}
+/*Main Page*/
+.navMain {
+	height: 37.8px;
+	margin-right: 20px;
+	margin-bottom: 77.9px;
+}
+.navNews {
+	height: 37.8px;
+	margin-right: 36px;
+}
+.bannerImg {
+	width: 1170px;
+	height: 460px;
+	display: block;
+	margin: 0 auto 117.7px;
+}
+.sectionDiv {
+	width: 1170px;
+	margin: 0 auto 70px;
+}
+h3.mainPageSectionHeading {
+	font-family: 'Roboto-Regular' sans-serif;
+	font-size: 24px;
+	line-height: 28.8px;
+	text-align: left;
+	color: #000000;
+	margin-bottom: 30px;
+}
+h4.cardHeading {
+	font-family: 'Roboto-Regular' sans-serif;
+	font-size: 22px;
+	line-height: 26.4px;*/
+	letter-spacing: 0.55px;
+	color: #3D58A6;
+	margin: 13px 270px 13px 20px;
+}
+.leftCardDiv, .rightCardDiv {
+	width: 570px;
+	height: 225px;
+	background-color: #F2F2F2;
+}
+.leftCardDiv {
+	margin-right: 25px;
+}
+.greencard {
+	width: 100px;
+	height: 120px;
+	background-color: lightgreen;
+	margin: 0 60px 0 40px;
+}
+.cardP {
+	width: 355px;
+	font-family: 'Roboto-Regular' sans-serif;
+	font-size: 20px;
+	line-height: 24px;
+	letter-spacing: 0.5px;
+	text-align: left;
+	color: #58595b;
+}
+/*News Page*/
+.dateDiv {
+	width: 56px;
+	height: 56px;
+	background-color: #3d58a6;
+	margin-left: 30px;
+	margin-bottom: 9px;
+	font-family: 'BPG Nino Mtavruli' sans-serif;
+	font-size: 37px;
+	line-height: 44px;
+	text-align: left;
+	color: #ffffff;
+    padding: 11px 5px 8px 10px;
+}
+.dateParagraph {
+	width: 60px;
+	height: 22px;
+	font-family: 'BPG Nino Mtavruli' sans-serif;
+	font-size: 22px;
+	text-align: left;
+	line-height: 26.4px;
+	color: #3d58a6;
+	margin-left: 30px;
+	margin-bottom: 25.5px;
+}
+.articleHeading {
+	width: 800px;
+	height: 20px;
+	font-family: 'BPG Nino Mtavruli' sans-serif;
+	font-size: 20px;
+	text-align: left;
+	line-height: 24px;
+	color: #000000;
+	margin-left: 30px;
+	margin-bottom: 17.5px;
+}
+.articleImg {
+	vertical-align: top;
+	margin: 0 39px 192px 30px;
+}
+.articleDiv {
+	width: 929px;
+	vertical-align: top;
+	font-family: 'BPG Ingiri Arial' sans-serif;
+	line-height: 19.2px;
+	vertical-align: left;
+	font-size: 16px;
+	color: #000000;
+}
+/*Contact Page*/
+.contactPageMainDiv {
+	width: 100%;
+	background-color: #e6e6e6;
+	margin-bottom: 31.7px;
+}
+.contactInfoDiv {
+	width: 255px;
+	height: 91px;
+	margin: 58.5px 70.7px 420.5px 97.3px;
+}
+.contactInfHeading {
+	font-family: 'BPG Nino Mtavruli' sans-serif;
+	font-size: 16px;
+	line-height: 24px;
+	text-align: left;
+	color: #3D58A6;
+}
+.infoTextStyle1{
+	font-family: 'BPG Nino Mtavruli' sans-serif;
+	font-size: 14px;
+	line-height: 24px;
+	color:#808080; 
+}
+.infoTextStyle2 {
+	color: #000000;
+}
